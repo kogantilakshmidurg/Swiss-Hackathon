@@ -13,3 +13,9 @@ int main()
     cout<<s; //s->amount necessary to order for free
 	return 0;
 }
+/*
+Sample Input:
+100 90
+Sample Output:
+111
+*/
